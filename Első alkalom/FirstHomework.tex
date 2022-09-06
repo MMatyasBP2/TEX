@@ -1,0 +1,48 @@
+\documentclass{book}
+\usepackage[english, magyar]{babel}
+\usepackage{t1enc}
+\usepackage{xcolor}
+\usepackage{graphics}
+\usepackage{lipsum}
+\usepackage{hulipsum}
+\usepackage{blindtext}
+\frenchspacing
+\begin{document}
+\title{Cím}\textbf{\huge{Cím}}
+\author{Mátyás Martinák}
+\section{Első feladat (Létrehozás, lementés)}
+\section{Második feladat (Betűtípusok)}
+	\texttt{Typewriter}\\
+	\emph{\textbf{Kopasz}}\\
+	\emph{\textsc{Kiskapi}}\\
+	\emph{\textit{Italic}}\\
+	\textsl{Slanted}\\
+	\textsf{Sant serif}\\\\
+	A \textbf{Kopasz} betűtípust bedönti, az \textit{Italic} betűtípust és a \textsc{Kiskapitálist} nem.
+\section{Harmadik feladat (Szöveg dekoráció)}
+	A színekhez és a tükrözéshez az xcolor és a graphics csomagokra van szükségünk.\\
+	A tükrözött és keretezett szó: \framebox{\reflectbox{\LaTeX}}\\
+	Tükrözött és vízszintesen megnyújtott szó: \scalebox{2.0}{\scalebox{-1}[1]{\hulipsum[1]}}\\
+	90°-kal elforgatott szó: \rotatebox{90}{\LaTeX}\\
+	270°-kal elforgatott szó: \rotatebox{270}{\LaTeX}\\
+	Invertált szöveg:\\
+	\colorbox{black}{\textcolor{white}{\LaTeX}}\\
+	Piros szöveg, piros kerettel, háttér nélkül:\\
+	\fcolorbox{red}{white}{\textcolor{red}{\LaTeX}}\\
+\section{Negyedik feladat (Zagyva szöveg/lorem ipsum)}
+	\hulipsum[1]\\\\
+	\textbf{És most latinul is:}\\
+	\begin{flushright}
+		\begin{otherlanguage}{latin}
+			\lipsum[1]
+		\end{otherlanguage}
+	\end{flushright}
+	\linespread{2}
+\section{Ötödik feladat (babel és központozás)}
+	A frenchspacing-el a szóközök nőttek.
+	A latin nyelv benne van az alap nyelvi csomagban.\\
+	Mai nap: "\today"
+\section{Hatodik feladat (Cím)}
+	Cím elkészült.
+	A különbséget megfigyeltem.
+\end{document}
