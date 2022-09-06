@@ -8,7 +8,14 @@
 \usepackage{blindtext}
 \frenchspacing
 \begin{document}
-\title{Cím}\textbf{\huge{Cím}}
+	\begin{titlepage}
+		\begin{center}
+			\title{MainTitle}\textbf{\huge{\textsc{Bevezetés a \LaTeX-be\\
+			\textbf{I. alkalom}}}}
+		\end{center}
+	\footnotetext{\author{Author}\textit{Írta: Martinák Mátyás}}
+	\end{titlepage}
+\title{Title}\textbf{\huge{\textit{Bevezetés a \LaTeX-be első óra}}}
 \author{Mátyás Martinák}
 \section{Első feladat (Létrehozás, lementés)}
 \section{Második feladat (Betűtípusok)}
@@ -39,10 +46,12 @@
 	\end{flushright}
 	\linespread{2}
 \section{Ötödik feladat (babel és központozás)}
-	A frenchspacing-el a szóközök nőttek.
-	A latin nyelv benne van az alap nyelvi csomagban.\\
-	Mai nap: "\today"
+	A frenchspacing-el a térközök változtak. A latin nyelv benne van az alap nyelvi csomagban.\\\\
+	Mai nap: "\today"\\
+	\begin{otherlanguage}{english}
+		Today: "\today"
+	\end{otherlanguage}\\\\
+	Láthatjuk, hogy az angol más dátumformázást használ, mint a magyar.
 \section{Hatodik feladat (Cím)}
-	Cím elkészült.
-	A különbséget megfigyeltem.
+	Az article és a book documentclassok közti különbség, az, hogy a book documentclass kvázi könyvként kezeli a dokumentumot, így oldalanként máshova rendezi a beírt szöveget.
 \end{document}

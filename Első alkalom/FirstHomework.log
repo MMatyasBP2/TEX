@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.6)  6 SEP 2022 14:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.6)  6 SEP 2022 15:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -203,88 +203,116 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 LaTeX Info: Redefining \cal on input line 583.
 LaTeX Info: Redefining \mit on input line 584.
 )
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <20.74> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 16.
+
+[1
+
+
+
+{C:/Users/D01918/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
+2.
 
 (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 
 LaTeX Font Warning: Font shape `T1/cmr/m/scit' undefined
-(Font)              using `T1/cmr/m/sc' instead on input line 17.
+(Font)              using `T1/cmr/m/sc' instead on input line 24.
 
 LaTeX Font Info:    Trying to load font information for T1+cmss on input line 2
-0.
+7.
 (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmss.fd
 File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-Underfull \hbox (badness 10000) in paragraph at lines 15--22
+Underfull \hbox (badness 10000) in paragraph at lines 22--29
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 24.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 24.
+(Font)              <7> on input line 31.
 
-Overfull \hbox (6104.89716pt too wide) in paragraph at lines 23--32
+Overfull \hbox (6104.89716pt too wide) in paragraph at lines 30--39
 \T1/cmr/m/n/10 Tükrözött és víz-szin-te-sen meg-nyúj-tott szó: [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 23--32
+Underfull \hbox (badness 10000) in paragraph at lines 30--39
 
  []
 
 
-Overfull \hbox (6.9154pt too wide) in paragraph at lines 32--32
+Overfull \hbox (6.9154pt too wide) in paragraph at lines 39--39
 []\T1/cmr/bx/n/14.4 Negyedik fel-adat (Zagy-va szö-veg/lorem ip-sum) 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--35
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--35
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
 
  []
 
-[1{C:/Users/D01918/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
-
-
-]
+[2]
 (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/la\babe
 l-latin.tex
 Package babel Info: Importing basic data for latin
 (babel)             from babel-la.ini. Reported on input line 9.
-) [2] (FirstHomework.aux) ) 
+)
+Underfull \hbox (badness 10000) in paragraph at lines 49--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--55
+
+ []
+
+[3] (FirstHomework.aux) ) 
 Here is how much of TeX's memory you used:
- 4691 strings out of 477843
- 85681 string characters out of 2823128
+ 4742 strings out of 477843
+ 86362 string characters out of 2823128
  656461 words of memory out of 3000000
- 23576 multiletter control sequences out of 15000+600000
- 478175 words of font info for 41 fonts, out of 8000000 for 9000
+ 23611 multiletter control sequences out of 15000+600000
+ 487738 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,6n,77p,1879b,454s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfo
-ur/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/
-pk/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\D01918\AppData\Local\MiKTeX
-\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\D01918\AppData\Local
-\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1000.pk> <C:\Users\D01918\AppDat
-a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl1000.pk> <C:\Users\D01918
-\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users
-\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1000.pk> <C
-:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1000
-.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\e
-ctt1000.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
-pi600\ecbx1440.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknapp
-en/ec/dpi600\ecbx2074.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour
-/jknappen/ec/dpi600\ecrm1000.pk>
-Output written on FirstHomework.pdf (2 pages, 74608 bytes).
+ 72i,7n,77p,1879b,454s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk
+/ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\D01918\AppData\Local\MiKTeX\f
+onts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\D01918\AppData\Local\M
+iKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecss1000.pk> <C:\Users\D01918\AppData\
+Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl1000.pk> <C:\Users\D01918\A
+ppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1000.pk> <C:\Users\D
+01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1000.pk> <C:\
+Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1000.p
+k> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ect
+t1000.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
+600\ecbx1440.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
+/ec/dpi600\ecbi1440.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/j
+knappen/ec/dpi600\ecbi2074.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/l
+jfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\ecti0800.pk> <C:\Users\D01918\AppData\Local\MiK
+TeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\D01918\AppData\Lo
+cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecxc1440.pk> <C:\Users\D01918\App
+Data\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecxc2074.pk>
+Output written on FirstHomework.pdf (3 pages, 98652 bytes).
 PDF statistics:
- 244 PDF objects out of 1000 (max. 8388607)
+ 316 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
