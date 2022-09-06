@@ -1,2 +1,2 @@
 # TEX
-Mátyás Martinák, TEX repo
+Mátyás Martinák (KLNSPG), TEX repo
