@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.6)  6 SEP 2022 16:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.8)  8 SEP 2022 15:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./FirstHomework.tex
 (FirstHomework.tex
 LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-08-23>
+L3 programming layer <2022-08-30>
 (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
 Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
 (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/base\bk10.clo
@@ -25,7 +25,7 @@ File: bk10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \bibindent=\dimen138
 )
 (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2022/07/20 3.78 The Babel package
+Package: babel 2022/08/29 3.79 The Babel package
 \babel@savecnt=\count194
 \U@D=\dimen139
 \l@unhyphenated=\language79
@@ -111,11 +111,11 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3
 keys2e.sty
 (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2022-08-23 L3 programming layer (loader) 
+Package: expl3 2022-08-30 L3 programming layer (loader) 
 
 (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
 ftex.def
-File: l3backend-pdftex.def 2022-08-23 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count198
 \l__pdf_internal_box=\box51
 ))
@@ -204,11 +204,11 @@ LaTeX Info: Redefining \cal on input line 583.
 LaTeX Info: Redefining \mit on input line 584.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <20.74> on input line 14.
+(Font)              <24.88> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 14.
+(Font)              <20.74> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 14.
+(Font)              <17.28> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -221,6 +221,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 {C:/Users/D01918/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 18.
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
 2.
 
@@ -290,13 +294,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 [4] (FirstHomework.aux) ) 
 Here is how much of TeX's memory you used:
- 4742 strings out of 477843
- 86362 string characters out of 2823128
- 654461 words of memory out of 3000000
- 23611 multiletter control sequences out of 15000+600000
- 487738 words of font info for 63 fonts, out of 8000000 for 9000
+ 4759 strings out of 475389
+ 86636 string characters out of 2776529
+ 694147 words of memory out of 3000000
+ 26076 multiletter control sequences out of 15000+600000
+ 491804 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,7n,77p,1879b,454s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,7n,77p,1879b,478s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour
 /jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk
 /ljfour/jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\D01918\AppData\Local\MiKTeX\f
@@ -314,11 +318,12 @@ knappen/ec/dpi600\ecbi2074.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/l
 jfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fon
 ts/pk/ljfour/jknappen/ec/dpi600\ecti0800.pk> <C:\Users\D01918\AppData\Local\MiK
 TeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\D01918\AppData\Lo
-cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecxc1440.pk> <C:\Users\D01918\App
-Data\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecxc2074.pk>
-Output written on FirstHomework.pdf (4 pages, 100548 bytes).
+cal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti2074.pk> <C:\Users\D01918\App
+Data\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecxc2074.pk> <C:\Users\D01
+918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecxc2488.pk>
+Output written on FirstHomework.pdf (4 pages, 102544 bytes).
 PDF statistics:
- 323 PDF objects out of 1000 (max. 8388607)
+ 328 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
