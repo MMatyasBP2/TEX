@@ -1,7 +1,11 @@
-\documentclass{article}
+\documentclass{book}
 \usepackage[english, magyar]{babel}
 \usepackage{t1enc}
 \usepackage{hulipsum}
+\usepackage[inner=3cm,outer=5cm]{geometry}
+
+\geometry{bindingoffset=0cm}
+\geometry{marginparwidth=3cm, marginparsep=0.5cm}
 \setcounter{secnumdepth}{5}
 \frenchspacing
 
@@ -13,14 +17,8 @@
 		\pagenumbering{roman}
 	\end{titlepage}
 
-\begin{abstract}
-	\hulipsum[1]
-	\footnote{szöveg}
-\end{abstract}
 \renewcommand{\thefootnote}{\fnsymbol{footnote}}
-\footnote{3}{text}
 
-\clearpage
 \setcounter{tocdepth}{5}
 \tableofcontents
 \clearpage
@@ -52,6 +50,7 @@ A titlepage elkészítése a maketitle paranccsal. A subsection-ben a számozás
 	\hulipsum[1-2]
 \end{quotation}
 
+\clearpage
 \subsection{József Attila - Tiszta szívvel}
 \begin{verse}
 	\begin{center}
