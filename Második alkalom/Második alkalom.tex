@@ -1,0 +1,37 @@
+\documentclass{article}
+\usepackage[english, magyar]{babel}
+\usepackage{t1enc}
+\usepackage{hulipsum}
+\setcounter{secnumdepth}{5}
+\frenchspacing
+
+\begin{document}
+	\begin{titlepage}
+		\title{\textsc{\huge{Bevezetés a \LaTeX\ \\ szövegszerkesztőbe}}}
+		\author{\textit{\Large{Második alkalom}}}
+		\maketitle
+		\pagenumbering{roman}
+	\end{titlepage}
+
+\setcounter{tocdepth}{5}
+\tableofcontents
+\clearpage
+\pagenumbering{arabic}
+\section{feladat}
+A titlepage elkészítése a maketitle paranccsal. A subsection-ben a számozás a pont után folytatódik.
+\subsection{Első alszekció}
+\hulipsum[2]
+\clearpage
+\subsection{Második alszekció}
+\hulipsum[3]
+\section{feladat - Hosszabb szekció elkészítése}
+\part{Első szint}
+\section{Második szint}
+\subsection{Harmadik szint}
+\subsubsection{Negyedik szint}
+\paragraph{Ötödik szint}
+\subparagraph{Hatodik szint}
+
+
+		
+\end{document}
