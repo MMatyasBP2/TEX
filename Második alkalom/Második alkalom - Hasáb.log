@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.13)  13 SEP 2022 13:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.13)  13 SEP 2022 14:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -102,6 +102,19 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 
 (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)
 )
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2022/05/18 v4.0.3 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip49
+\f@nch@O@elh=\skip50
+\f@nch@O@erh=\skip51
+\f@nch@O@olh=\skip52
+\f@nch@O@orh=\skip53
+\f@nch@O@elf=\skip54
+\f@nch@O@erf=\skip55
+\f@nch@O@olf=\skip56
+\f@nch@O@orf=\skip57
+)
 (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
 ftex.def
 File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
@@ -110,20 +123,20 @@ File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
 ) (Második alkalom - Hasáb.aux)
 \openout1 = `"Második alkalom - Hasáb.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -164,15 +177,15 @@ LaTeX Info: Redefining \cal on input line 583.
 LaTeX Info: Redefining \mit on input line 584.
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <20.74> on input line 16.
+(Font)              <20.74> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 16.
+(Font)              <14.4> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 16.
+(Font)              <12> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 16.
+(Font)              <8> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 16.
+(Font)              <6> on input line 18.
 
 [1
 
@@ -199,7 +212,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 33--33
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
 []\T1/cmr/bx/n/14.4 feladat - Hosszabb
  []
 
@@ -210,7 +223,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--33
 
 
 ] [4]
-Underfull \hbox (badness 1571) in paragraph at lines 45--46
+Underfull \hbox (badness 1571) in paragraph at lines 49--50
 []\T1/cmr/m/n/10 A vez-vet-ben �ven-te t�bb mint
  []
 
@@ -227,13 +240,13 @@ LaTeX Warning: Marginpar on page 7 moved.
 
 ] (Második alkalom - Hasáb.aux) ) 
 Here is how much of TeX's memory you used:
- 3338 strings out of 475389
- 60972 string characters out of 2776528
- 587202 words of memory out of 3000000
- 24709 multiletter control sequences out of 15000+600000
- 488683 words of font info for 64 fonts, out of 8000000 for 9000
+ 3512 strings out of 475389
+ 63515 string characters out of 2776528
+ 590932 words of memory out of 3000000
+ 24878 multiletter control sequences out of 15000+600000
+ 489502 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,8n,62p,1913b,395s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 55i,11n,62p,1913b,395s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\D01918\AppData\Local\MiKTeX\fonts
 /pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\D01918\AppData\Local\MiKTe
 X\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\D01918\AppData\Loca
@@ -241,17 +254,18 @@ l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\D01918\AppDa
 ta\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\D0191
 8\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0700.pk> <C:\User
 s\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <
-C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx120
+C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecsl100
 0.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
-ecrm1000.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
-dpi600\ecbx2488.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
-pen/ec/dpi600\ecrm1200.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfou
-r/jknappen/ec/dpi600\ecti1440.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/p
-k/ljfour/jknappen/ec/dpi600\eccc1440.pk> <C:\Users\D01918\AppData\Local\MiKTeX\
-fonts/pk/ljfour/jknappen/ec/dpi600\eccc2074.pk>
-Output written on "Második alkalom - Hasáb.pdf" (9 pages, 100400 bytes).
+ecbx1200.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
+dpi600\ecrm1000.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecbx2488.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfou
+r/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/p
+k/ljfour/jknappen/ec/dpi600\ecti1440.pk> <C:\Users\D01918\AppData\Local\MiKTeX\
+fonts/pk/ljfour/jknappen/ec/dpi600\eccc1440.pk> <C:\Users\D01918\AppData\Local\
+MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc2074.pk>
+Output written on "Második alkalom - Hasáb.pdf" (9 pages, 102786 bytes).
 PDF statistics:
- 311 PDF objects out of 1000 (max. 8388607)
+ 318 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

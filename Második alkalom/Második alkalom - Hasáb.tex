@@ -3,6 +3,7 @@
 \usepackage{t1enc}
 \usepackage{hulipsum}
 \usepackage[inner=3cm,outer=5cm]{geometry}
+\usepackage{fancyhdr}
 
 \geometry{bindingoffset=0cm}
 \geometry{marginparwidth=3cm, marginparsep=0.5cm}
@@ -10,6 +11,7 @@
 \frenchspacing
 
 \begin{document}
+	\pagestyle{headings}
 	\begin{titlepage}
 		\title{\textsc{\huge{Bevezetés a \LaTeX\ \\ szövegszerkesztőbe}}}
 		\author{\textit{\Large{Második alkalom}}}
@@ -23,6 +25,7 @@
 \tableofcontents
 \clearpage
 \pagenumbering{arabic}
+\pagestyle{myheadings}
 \section{feladat}\footnote{Section footnote}
 A titlepage elkészítése a maketitle paranccsal. A subsection-ben a számozás a pont után folytatódik.
 \subsection{Első alszekció}
@@ -40,6 +43,7 @@ A titlepage elkészítése a maketitle paranccsal. A subsection-ben a számozás
 
 \appendix
 
+\pagestyle{fancy}
 \section{section}
 \begin{quote}
 	\hulipsum[1-2]
