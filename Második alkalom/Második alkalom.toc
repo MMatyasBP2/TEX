@@ -7,4 +7,8 @@
 \select@language {magyar} \contentsline {subsection}{\numberline {3.1}Harmadik szint}{2}{}%
 \select@language {magyar} \contentsline {subsubsection}{\numberline {3.1.1}Negyedik szint}{2}{}%
 \select@language {magyar} \contentsline {paragraph}{\numberline {3.1.1.1}Ötödik szint}{2}{}%
-\select@language {magyar} \contentsline {subparagraph}{\numberline {3.1.1.1.1}Hatodik szint}{2}{}%
+\select@language {magyar} \contentsline {subparagraph}{\numberline {.0.1.1.1}Hatodik szint}{2}{}%
+\select@language {magyar} \contentsline {section}{\numberline {A}section}{2}{}%
+\select@language {magyar} \contentsline {subsection}{\numberline {A.1}subsection}{3}{}%
+\select@language {magyar} \contentsline {section}{\numberline {B}section}{3}{}%
+\select@language {magyar} \contentsline {subsection}{\numberline {B.1}József Attila - Tiszta szívvel}{4}{}%

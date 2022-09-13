@@ -13,11 +13,19 @@
 		\pagenumbering{roman}
 	\end{titlepage}
 
+\begin{abstract}
+	\hulipsum[1]
+	\footnote{szöveg}
+\end{abstract}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\footnote{3}{text}
+
+\clearpage
 \setcounter{tocdepth}{5}
 \tableofcontents
 \clearpage
 \pagenumbering{arabic}
-\section{feladat}
+\section{feladat}\footnote{Section footnote}
 A titlepage elkészítése a maketitle paranccsal. A subsection-ben a számozás a pont után folytatódik.
 \subsection{Első alszekció}
 \hulipsum[2]
@@ -32,6 +40,42 @@ A titlepage elkészítése a maketitle paranccsal. A subsection-ben a számozás
 \paragraph{Ötödik szint}
 \subparagraph{Hatodik szint}
 
+\appendix
 
+\section{section}
+\begin{quote}
+	\hulipsum[1-2]
+\end{quote}
+\subsection{subsection}
+\section{section}
+\begin{quotation}
+	\hulipsum[1-2]
+\end{quotation}
+
+\subsection{József Attila - Tiszta szívvel}
+\begin{verse}
+	\begin{center}
+		Nincsen apám, se anyám,\\
+		se istenem, se hazám,\\
+		se bölcsőm, se szemfedőm,\\
+		se csókom, se szeretőm.\\
 		
+		Harmadnapja nem eszek,\\
+		se sokat, se keveset.\\
+		Húsz esztendőm hatalom,\\
+		húsz esztendőm eladom.\\
+		
+		Hogyha nem kell senkinek,\\
+		hát az ördög veszi meg.\\
+		Tiszta szívvel betörök,\\
+		ha kell, embert is ölök.\\
+		
+		Elfognak és felkötnek,\\
+		áldott földdel elfödnek\\
+		s halált hozó fű terem\\
+		gyönyörűszép szívemen.\\
+	\end{center}
+\end{verse}
+
+	
 \end{document}
