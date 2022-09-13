@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.13)  13 SEP 2022 13:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.13)  13 SEP 2022 13:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"./Második alkalom.tex"
-(Második alkalom.tex
+**"./Második alkalom - Hasáb.tex"
+(Második alkalom - Hasáb.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-08-30>
 (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
@@ -107,8 +107,8 @@ ftex.def
 File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count268
 \l__pdf_internal_box=\box51
-) (Második alkalom.aux)
-\openout1 = `"Második alkalom.aux"'.
+) (Második alkalom - Hasáb.aux)
+\openout1 = `"Második alkalom - Hasáb.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
@@ -153,7 +153,7 @@ LaTeX Font Info:    ... okay on input line 12.
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
-* \@twocolumnfalse
+* \@twocolumntrue
 * \@twosidetrue
 * \@mparswitchtrue
 * \@reversemarginfalse
@@ -179,55 +179,77 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 
+
 {C:/Users/D01918/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-(Második alkalom.toc
+(Második alkalom - Hasáb.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 1.
 )
 \tf@toc=\write3
-\openout3 = `"Második alkalom.toc"'.
+\openout3 = `"Második alkalom - Hasáb.toc"'.
 
  [1
 
+
+
 ] [1
 
-] [2
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
+[]\T1/cmr/bx/n/14.4 feladat - Hosszabb
+ []
+
+[2
+
 
 ] [3
 
-] [4] [5] [6]
+
+] [4]
+Underfull \hbox (badness 1571) in paragraph at lines 45--46
+[]\T1/cmr/m/n/10 A vez-vet-ben �ven-te t�bb mint
+ []
+
+[5
+
+] [6
+
+]
 
 LaTeX Warning: Marginpar on page 7 moved.
 
 [7
 
-] (Második alkalom.aux) ) 
+
+] (Második alkalom - Hasáb.aux) ) 
 Here is how much of TeX's memory you used:
- 3336 strings out of 475389
- 60772 string characters out of 2776528
- 583083 words of memory out of 3000000
- 24707 multiletter control sequences out of 15000+600000
+ 3338 strings out of 475389
+ 60972 string characters out of 2776528
+ 587202 words of memory out of 3000000
+ 24709 multiletter control sequences out of 15000+600000
  488683 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,8n,62p,1904b,381s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfou
-r/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/p
-k/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\D01918\AppData\Local\MiKTeX\
-fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\D01918\AppData\Local\
-MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\D01918\AppData
-\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0700.pk> <C:\Users\D01918\
-AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\
-D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:
-\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.
-pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ec
-bx2488.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dp
-i600\ecrm1200.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappe
-n/ec/dpi600\ecti1440.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/
-jknappen/ec/dpi600\eccc1440.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/
-ljfour/jknappen/ec/dpi600\eccc2074.pk>
-Output written on "Második alkalom.pdf" (9 pages, 100155 bytes).
+ 55i,8n,62p,1913b,395s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\D01918\AppData\Local\MiKTeX\fonts
+/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\D01918\AppData\Local\MiKTe
+X\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2074.pk> <C:\Users\D01918\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\D01918\AppDa
+ta\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\D0191
+8\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0700.pk> <C:\User
+s\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <
+C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx120
+0.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
+ecrm1000.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
+dpi600\ecbx2488.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecrm1200.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfou
+r/jknappen/ec/dpi600\ecti1440.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/p
+k/ljfour/jknappen/ec/dpi600\eccc1440.pk> <C:\Users\D01918\AppData\Local\MiKTeX\
+fonts/pk/ljfour/jknappen/ec/dpi600\eccc2074.pk>
+Output written on "Második alkalom - Hasáb.pdf" (9 pages, 100400 bytes).
 PDF statistics:
  311 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
