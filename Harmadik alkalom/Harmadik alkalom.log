@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.13)  20 SEP 2022 13:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.13)  20 SEP 2022 14:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -205,55 +205,47 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ] [3
 
 ]
-<263531453_681134376205686_6229760029118006700_n.png, id=22, 963.6pt x 542.025p
-t>
-File: 263531453_681134376205686_6229760029118006700_n.png Graphic file (type pn
-g)
-<use 263531453_681134376205686_6229760029118006700_n.png>
-Package pdftex.def Info: 263531453_681134376205686_6229760029118006700_n.png  u
-sed on input line 60.
-(pdftex.def)             Requested size: 142.26378pt x 80.01828pt.
-<1.png, id=23, 516.42938pt x 450.18187pt>
+<1.png, id=22, 516.42938pt x 450.18187pt>
 File: 1.png Graphic file (type png)
 <use 1.png>
-Package pdftex.def Info: 1.png  used on input line 68.
-(pdftex.def)             Requested size: 137.9979pt x 120.29366pt.
-<2.png, id=24, 641.39626pt x 471.26062pt>
+Package pdftex.def Info: 1.png  used on input line 66.
+(pdftex.def)             Requested size: 172.5pt x 150.36708pt.
+<2.png, id=23, 641.39626pt x 471.26062pt>
 File: 2.png Graphic file (type png)
 <use 2.png>
-Package pdftex.def Info: 2.png  used on input line 69.
-(pdftex.def)             Requested size: 137.9979pt x 101.39096pt.
+Package pdftex.def Info: 2.png  used on input line 68.
+(pdftex.def)             Requested size: 172.5pt x 126.73871pt.
  [4
 
- <./1.png> <./2.png> <./263531453_681134376205686_6229760029118006700_n.png>]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 74.
+ <./1.png> <./2.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 74.
- [5
-
-] (Harmadik alkalom.aux) ) 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 74.
+ [5]
+(Harmadik alkalom.aux) ) 
 Here is how much of TeX's memory you used:
- 4415 strings out of 475389
- 76986 string characters out of 2776528
+ 4413 strings out of 475389
+ 76635 string characters out of 2776528
  594955 words of memory out of 3000000
- 25761 multiletter control sequences out of 15000+600000
- 482751 words of font info for 59 fonts, out of 8000000 for 9000
+ 25759 multiletter control sequences out of 15000+600000
+ 482606 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,11n,62p,1883b,403s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfou
-r/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/p
-k/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\D01918\AppData\Local\MiKTeX\
-fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\D01918\AppData\Local\
-MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\D01918\AppData
-\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\D01918\
-AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\
-D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti2074.pk> <C:
-\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti2488.
-pk>
-Output written on "Harmadik alkalom.pdf" (6 pages, 594392 bytes).
+ <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/
+jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fo
+nts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\D01918\AppData\Local\Mi
+KTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\D01918\AppData\L
+ocal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\D01918\Ap
+pData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\D0
+1918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\U
+sers\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti2074.pk
+> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti
+2488.pk>
+Output written on "Harmadik alkalom.pdf" (6 pages, 132512 bytes).
 PDF statistics:
- 234 PDF objects out of 1000 (max. 8388607)
+ 233 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
