@@ -1,80 +1,110 @@
 \documentclass{article}
-\usepackage[english, magyar]{babel}
-\usepackage{t1enc}
+\usepackage[utf8]{inputenc}
 \usepackage[inline]{enumitem}
+\usepackage{float}
+\usepackage{subcaption}
+\usepackage{array}
+\usepackage{colortbl}
+\usepackage{wrapfig}
+\usepackage{multirow}
 \usepackage{hulipsum}
 \usepackage{graphicx}
 \usepackage{xcolor}
+\newlist{enuma}{enumerate}{5}
+\setlist[enuma]{label=\alph*)}
 
 \begin{document}
 	\begin{titlepage}
-		\title{\Huge{\textit{Bevezetés a \LaTeX -be}}}
-		\author{\Large{Harmadik alkalom}}
+		\title{\Huge{Bevezetés a \LaTeX-be}}
+		\author{\textit{Harmadik alkalom}}
+		\date{}
 		\maketitle
 	\end{titlepage}
-
-\tableofcontents
-\clearpage
-
-\section{feladat - "Egysoros lista"}
-\begin{enumerate}
-	\item [!]First item with enumerate
-	\item [?]Second item with enumerate
-	\item [és]third item with enumerate
-\end{enumerate}
-
-\section{feladat - Számozott lista}
-\begin{enumerate}
-	\item Első szint
-	\begin{enumerate}
-		\item Második szint
-		\begin{enumerate}
-			\item [-]Harmadik szint
-			\begin{enumerate}
-				\item [-]Negyedik (utolsó) szint
-			\end{enumerate}
-		\end{enumerate}
-	\end{enumerate}
-\end{enumerate}
-
-\hulipsum[2]
-
-\begin{enumerate}[label=\textbullet]
-	\item Első számozás
-	\item [-]Második számozás
-	\item Harmadik számozás
-\end{enumerate}
-\clearpage
-
-\section{feladat - Leíró lista}
-\begin{description}[align=parleft,%
-	leftmargin=*,widest={hosszabb}]
-	\item[slanted]
-	\item[rövid cimke] \hulipsum[2]
-	\item[hosszú cimke!] \hulipsum[3]
-\end{description}
-\clearpage
-
-\section{feladat - Ábrák}
-
-\hulipsum[1]
-
-\begin{figure}[bt] %figurben lévőket nem lehet megtörni
-	\centering
-	\label{fig:kepek}
-	\caption{Felirat/képaláírás}
-	\includegraphics[width=0.5\linewidth]{1}
-	\caption{Felirat/képaláírás}
-	\includegraphics[width=0.5\linewidth, angle = 90]{2}
-\end{figure}
-
-\hulipsum[1]
-
-\section{feladat - Táblázatok}
-\begin{tabular}{|p{3cm} | p{5cm} |}
-	\hline
-	Hello& \LaTeX
-\end{tabular}
-
-
+	\ref{fig:kepek} \ref{kep2} \subref{kep2} \ref{list2}\ref{list1}
+	\section{Bevezetés}
+	\begin{itemize}
+		\item[*] egy
+		\item[*] kettő
+		\item[és] három
+	\end{itemize}
+	\ref{noszam} \ref{szam}
+	\begin{enuma}
+		\item  plain text after a list as you can see
+		\item egy
+		\begin{enuma}
+			\item  plain text after a list as you can see
+			\item[] \label{noszam} ketto
+			\begin{enuma}
+				\item  plain text after a list as you can see
+				\item harom
+				\begin{enuma}
+					\item kekw
+				\end{enuma}
+				\begin{enuma}
+					\item  plain text after a list as you can see
+					\item \label{szam} negy
+					\begin{enuma}
+						\item  plain text after a list as you can see
+						\item ot
+					\end{enuma}
+				\end{enuma}
+			\end{enuma}
+		\end{enuma}
+	\end{enuma}
+	\begin{description}[style=unboxed]
+		\item \hulipsum[1]
+		\begin{figure}[bt]
+			\centering
+			\caption{Felirat/képaláírás}
+			\label{fig:kepek}
+			\begin{subfigure}{5cm}
+				\includegraphics[keepaspectratio, width = 5cm, height = 5cm]{1}
+				\hspace{1em} % vízszintes helykihagyás
+			\end{subfigure}
+			\begin{subfigure}{5cm}
+				\caption{lol}
+				\label{kep2}
+				\includegraphics[keepaspectratio, width = 5cm, height = 5cm, angle = 180]{2}
+			\end{subfigure}
+		\end{figure}
+		\item[kicsi] \hulipsum[1]
+		\item \hulipsum[1]
+		\item[naaaaaaagy] \hulipsum[1]
+	\end{description}
+	
+	\label{list1}
+	\begin{tabular}{c||ccc|}
+		& egy & ketto & harom \\ \hline
+		\multirow{2}{3cm}{Hello\\volág} & negy & ot & het \\ 
+		&  &  &  \\ \cline{2-4}
+		& het  & nyolc & kilenc\\ \cline{2-2} \cline{4-4}
+		\multirow{2}{3cm}{lorum\\ipse}& tiz & & tizengy \\ 
+		& & & \\\hline
+	\end{tabular}
+	
+	\label{list2}
+	\begin{tabular}{||ccc|}
+		\rowcolor{cyan}
+		egy & ketto & harom \\ \hline
+		\rowcolor{cyan}
+		negy & ot & het \\ 
+		\rowcolor{red}
+		&  &  \\ \cline{1-3}
+		\rowcolor{red}
+		het  & nyolc & kilenc\\ \cline{1-1} \cline{3-3}
+		\rowcolor{cyan}
+		tiz & & tizengy \\ 
+		\rowcolor{cyan}
+		& & \\\hline
+	\end{tabular}
+	
+	
+	\label{list3}
+	\begin{tabular}{r!{\color{red}\vline}cc|}
+		egy & \multicolumn{2}{c|}{ketto}\\ \hline
+		\multirow{2}{1cm}{negy} & öt \vline& hat\\ \cline{2-3}
+		& \multicolumn{2}{c|}{\multirow{2}{1cm}{nyolc}}\\ \cline{1-1}
+		tiz & &\\ \hline
+	\end{tabular}
+	
 \end{document}

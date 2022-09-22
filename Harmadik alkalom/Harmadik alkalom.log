@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.13)  20 SEP 2022 14:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.13)  22 SEP 2022 15:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -23,74 +23,109 @@ File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 )
-(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2022/08/29 3.79 The Babel package
-\babel@savecnt=\count193
-\U@D=\dimen139
-\l@unhyphenated=\language79
-
-(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
-\bbl@readstream=\read2
-\bbl@dirlevel=\count194
-
-*************************************
-* Local config file bblopts.cfg used
-*
-(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
-File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
- babel
-)
-(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.
-ldf
-Language: english 2017/06/06 v3.3r English support from the babel system
-Package babel Info: Hyphen rules for 'canadian' set to \l@english
-(babel)             (\language0). Reported on input line 102.
-Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language73). Reported on input line 105.
-Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language73). Reported on input line 108.
-)
-(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/babel-hungarian\magyar
-.ldf
-Language: magyar 2019/01/14 v1.5c Magyar (Hungarian) support for babel
-Package babel Info: Making ` an active character on input line 2819.
-\c@footnote@add=\count195
-\c@footnote@ch=\count196
-))
-(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/hu\babe
-l-magyar.tex
-Package babel Info: Importing font and identification data for magyar
-(babel)             from babel-hu.ini. Reported on input line 11.
-)
-(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babe
-l-english.tex
-Package babel Info: Importing font and identification data for english
-(babel)             from babel-en.ini. Reported on input line 11.
-)
-(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/base\t1enc.sty
-Package: t1enc 1994/06/01 Standard LaTeX package
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
 )
 (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\enitkv@toks@=\toks16
+\enitkv@toks@=\toks18
 \labelindent=\skip49
-\enit@outerparindent=\dimen140
-\enit@toks=\toks17
+\enit@outerparindent=\dimen139
+\enit@toks=\toks19
 \enit@inbox=\box51
-\enit@count@id=\count197
-\enitdp@description=\count198
+\enit@count@id=\count193
+\enitdp@description=\count194
+) (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count195
+\float@exts=\toks20
+\float@box=\box52
+\@float@everytoks=\toks21
+\@floatcapt=\box53
+)
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+\caption@tempdima=\dimen140
+\captionmargin=\dimen141
+\caption@leftmargin=\dimen142
+\caption@rightmargin=\dimen143
+\caption@width=\dimen144
+\caption@indent=\dimen145
+\caption@parindent=\dimen146
+\caption@hangindent=\dimen147
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count196
+\c@continuedfloat=\count197
+Package caption Info: float package is loaded.
+)
+\c@subfigure=\count198
+\c@subtable=\count199
+) (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen148
+\ar@mcellbox=\box54
+\extrarowheight=\dimen149
+\NC@list=\toks23
+\extratabsurround=\skip50
+\backup@length=\skip51
+\ar@cellbox=\box55
+)
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
+
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.de
+f
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex-dev/graphics\mathcolor
+.ltx))
+\everycr=\toks24
+\minrowclearance=\skip52
+\rownum=\count266
+)
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen150
+\WF@size=\dimen151
+\c@WF@wrappedlines=\count267
+\WF@box=\box56
+\WF@everypar=\toks25
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip53
+\multirow@cntb=\count268
+\multirow@dima=\skip54
+\bigstrutjot=\dimen152
 ) (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/hulipsum\hulipsum.st
 y
 Package: hulipsum 2020/11/03 v1.1 Hungarian dummy text (Lorum ipse)
-\c@hulipsum@count=\count199
+\c@hulipsum@count=\count269
 )
 (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
-Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks18
-)
 (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
@@ -102,20 +137,18 @@ cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
-
-(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.de
-f
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
-))
-\Gin@req@height=\dimen141
-\Gin@req@width=\dimen142
-) (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+)
+\Gin@req@height=\dimen153
+\Gin@req@width=\dimen154
+)
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
 
 (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 227.
+LaTeX Info: Redefining \color on input line 711.
 
 (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex-dev/graphics\mathcolor
 .ltx)
@@ -129,43 +162,53 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 )
+\c@enumai=\count270
+\c@enumaii=\count271
+\c@enumaiii=\count272
+\c@enumaiv=\count273
+\c@enumav=\count274
+\enitdp@enuma=\count275
+
 (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
 ftex.def
 File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count266
-\l__pdf_internal_box=\box52
+\l__color_backend_stack_int=\count276
+\l__pdf_internal_box=\box57
 ) (Harmadik alkalom.aux)
 \openout1 = `"Harmadik alkalom.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
 
 (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
 kii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count267
-\scratchdimen=\dimen143
-\scratchbox=\box53
-\nofMPsegments=\count268
-\nofMParguments=\count269
-\everyMPshowfont=\toks19
-\MPscratchCnt=\count270
-\MPscratchDim=\dimen144
-\MPnumerator=\count271
-\makeMPintoPDFobject=\count272
-\everyMPtoPDFconversion=\toks20
+\scratchcounter=\count277
+\scratchdimen=\dimen155
+\scratchbox=\box58
+\nofMPsegments=\count278
+\nofMParguments=\count279
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count280
+\MPscratchDim=\dimen156
+\MPnumerator=\count281
+\makeMPintoPDFobject=\count282
+\everyMPtoPDFconversion=\toks27
 )
 (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-
 base.sty
@@ -176,76 +219,67 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.
 cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-)) (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-LaTeX Info: Redefining \cal on input line 497.
-LaTeX Info: Redefining \mit on input line 498.
-)
+))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <24.88> on input line 13.
+(Font)              <24.88> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <20.74> on input line 13.
+(Font)              <20.74> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 13.
+(Font)              <17.28> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 13.
+(Font)              <12> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 13.
+(Font)              <8> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 13.
+(Font)              <6> on input line 21.
  [1
 
-
 {C:/Users/D01918/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-(Harmadik alkalom.toc)
-\tf@toc=\write3
-\openout3 = `"Harmadik alkalom.toc"'.
-
- [1] [2
-
-] [3
-
-]
-<1.png, id=22, 516.42938pt x 450.18187pt>
+<1.png, id=8, 516.42938pt x 450.18187pt>
 File: 1.png Graphic file (type png)
 <use 1.png>
-Package pdftex.def Info: 1.png  used on input line 66.
-(pdftex.def)             Requested size: 172.5pt x 150.36708pt.
-<2.png, id=23, 641.39626pt x 471.26062pt>
+Package pdftex.def Info: 1.png  used on input line 61.
+(pdftex.def)             Requested size: 142.25885pt x 124.0099pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--63
+
+ []
+
+<2.png, id=9, 641.39626pt x 471.26062pt>
 File: 2.png Graphic file (type png)
 <use 2.png>
-Package pdftex.def Info: 2.png  used on input line 68.
-(pdftex.def)             Requested size: 172.5pt x 126.73871pt.
- [4
-
- <./1.png> <./2.png>]
+Package pdftex.def Info: 2.png  used on input line 67.
+(pdftex.def)             Requested size: 142.26247pt x 104.52617pt.
+[1]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 74.
+(Font)              <7> on input line 76.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 74.
- [5]
-(Harmadik alkalom.aux) ) 
+(Font)              <5> on input line 76.
+ [2 <./1.png> <./2.png>] [3] (Harmadik alkalom.aux) ) 
 Here is how much of TeX's memory you used:
- 4413 strings out of 475389
- 76635 string characters out of 2776528
- 594955 words of memory out of 3000000
- 25759 multiletter control sequences out of 15000+600000
- 482606 words of font info for 57 fonts, out of 8000000 for 9000
+ 4282 strings out of 475389
+ 74837 string characters out of 2776528
+ 573980 words of memory out of 3000000
+ 25635 multiletter control sequences out of 15000+600000
+ 476296 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,11n,62p,1883b,403s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/
-jknappen/ec/dpi600\ecrm0700.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/
-ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fo
-nts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\D01918\AppData\Local\Mi
-KTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\D01918\AppData\L
-ocal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\D01918\Ap
-pData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\D0
-1918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\U
-sers\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti2074.pk
-> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti
-2488.pk>
-Output written on "Harmadik alkalom.pdf" (6 pages, 132512 bytes).
+ 67i,11n,77p,1883b,627s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Users/D01918/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/D01918
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Us
+ers/D01918/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.p
+fb><C:/Users/D01918/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmr17.pfb><C:/Users/D01918/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmr9.pfb><C:/Users/D01918/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmti12.pfb>
+Output written on "Harmadik alkalom.pdf" (4 pages, 138327 bytes).
 PDF statistics:
- 233 PDF objects out of 1000 (max. 8388607)
+ 47 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
