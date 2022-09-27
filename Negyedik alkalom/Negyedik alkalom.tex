@@ -1,0 +1,125 @@
+\documentclass{article}
+\usepackage[english, magyar]{babel}
+\usepackage{t1enc}
+\usepackage{hulipsum}
+\usepackage{algorithmicx}
+\usepackage{amsthm}
+\usepackage{float}
+\usepackage{listings}
+\usepackage{geometry}
+\usepackage{algpseudocode}
+\theoremstyle{plain}\newtheorem{tet}{Tétel}
+\theoremstyle{definition}\newtheorem{defin}{Definíció}
+\theoremstyle{plain}\newtheorem{lemma}{Lemma}
+\theoremstyle{remark}\newtheorem{feladat}{Feladat}
+\newtheorem*{megjegy}{Megjegyzés}
+\newtheorem{lista}{Lista}
+\newfloat{forráskód}{hbt}{lop}[section]
+\geometry{margin=2cm}
+
+\begin{document}
+	\begin{titlepage}
+		\title{\Huge{Bevezetés a \LaTeX-be}}
+		\author{\Large{\textit{Negyedik alkalom}}}
+		\date{}
+		\maketitle
+	\end{titlepage}
+
+\section{feladat - Tételkörnyezetek}
+\begin{tet}
+	Tehát tétel
+\end{tet}
+
+\begin{tet}
+	Heße mátrix	
+\end{tet}
+
+\begin{proof}
+	...
+\end{proof}
+
+\begin{defin}
+	Tehát definíció
+\end{defin}
+
+\begin{defin}
+	Triviális
+\end{defin}
+
+\begin{lemma}
+	Tehát Lemma
+\end{lemma}
+
+\begin{feladat}
+	Feladat
+\end{feladat}
+
+\begin{megjegy}
+	Megjegyzés
+\end{megjegy}
+
+\section{feladat - Verbatim (és saját float)}
+\verb\LaTeX \LaTeX \LaTeX
+
+\begin{verbatim}
+	\begin{tet}
+		Tétel...
+	\end{tet}
+\end{verbatim}
+
+\begin{verbatim}
+	\begin{lista}
+		Lista...
+	\end{lista}
+\end{verbatim}
+
+\listof{forráskód}{Programkódok listája}
+\floatname{forráskód}{Forráskód}
+\clearpage
+
+\section{feladat - Programkód}
+Former project from DBMS:
+\begin{footnotesize}
+	\lstinputlisting[language=Java, tabsize=4, numbers=left, stepnumber=4, frame=shadowbox]{App.java}
+\end{footnotesize}
+\clearpage
+
+\section{feladat - Pszeudokód}
+	\begin{lstlisting}[frame = single][language=python]
+	def binary_search(arr, val, start, end):
+	if start == end:
+	if arr[start] > val:
+	return start
+	else:
+	return start+1
+	elif start > end:
+	return start
+	else: 
+	mid = (start+end)/2
+	if arr[mid] < val:
+	return binary_search(arr, val, mid+1, end)
+	elif arr[mid] > val:
+	return binary_search(arr, val, start, mid-1)
+	else: # arr[mid] = val
+	return mid
+	
+	def insertion_sort(arr):
+	for i in xrange(1, len(arr)):
+	val = arr[i]
+	j = binary_search(arr, val, 0, i-1)
+	arr = arr[:j] + [val] + arr[j:i] + arr[i+1:]
+	return arr
+\end{lstlisting}
+
+\begin{algorithmic}
+	\State $i \gets 10$
+	\If{$i\geq 5$} 
+	\State $i \gets i-1$
+	\Else
+	\If{$i\leq 3$}
+	\State $i \gets i+2$
+	\EndIf
+	\EndIf 
+\end{algorithmic}
+
+\end{document}
