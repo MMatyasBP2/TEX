@@ -1,0 +1,376 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.10.6)  8 OCT 2022 17:24
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"./Ötödik alkalom_3.tex"
+(Ötödik alkalom_3.tex
+LaTeX2e <2022-06-01> patch level 5
+L3 programming layer <2022-08-30>
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/base\bk10.clo
+File: bk10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2022/08/29 3.79 The Babel package
+\babel@savecnt=\count194
+\U@D=\dimen139
+\l@unhyphenated=\language79
+
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count195
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/babel-hungarian\magyar
+.ldf
+Language: magyar 2019/01/14 v1.5c Magyar (Hungarian) support for babel
+Package babel Info: Making ` an active character on input line 2819.
+\c@footnote@add=\count196
+\c@footnote@ch=\count197
+))
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/hu\babe
+l-magyar.tex
+Package babel Info: Importing font and identification data for magyar
+(babel)             from babel-hu.ini. Reported on input line 11.
+)
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/base\t1enc.sty
+Package: t1enc 1994/06/01 Standard LaTeX package
+)
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3
+keys2e.sty
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2022-08-30 L3 programming layer (loader) 
+
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
+ftex.def
+File: l3backend-pdftex.def 2022-08-30 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count198
+\l__pdf_internal_box=\box51
+))
+Package: l3keys2e 2022-06-22 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count199
+\l__lipsum_a_int=\count266
+\l__lipsum_b_int=\count267
+
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)
+)
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/hulipsum\hulipsum.sty
+Package: hulipsum 2020/11/03 v1.1 Hungarian dummy text (Lorum ipse)
+\c@hulipsum@count=\count268
+) (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.st
+y
+Package: hyperref 2022-06-20 v7.00s Hypertext links for LaTeX
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmd
+s.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.
+sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.
+sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefin
+ekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.
+sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacr
+o.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\getti
+tlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.st
+y
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count269
+)
+\@linkdim=\dimen140
+\Hy@linkcounter=\count270
+\Hy@pagecounter=\count271
+
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2022-06-20 v7.00s Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.st
+y
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count272
+ (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2022-06-20 v7.00s Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4162.
+Package hyperref Info: Link nesting OFF on input line 4167.
+Package hyperref Info: Hyper index ON on input line 4170.
+Package hyperref Info: Plain pages OFF on input line 4177.
+Package hyperref Info: Backreferencing ON on input line 4180.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4408.
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\backref.sty
+Package: backref 2021/02/04 v1.41 Bibliographical back referencing
+
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfi
+lecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\unique
+counter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcal
+c.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+))
+\c@Hy@tempcnt=\count273
+ (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4746.
+\XeTeXLinkMargin=\dimen141
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+)
+\Fld@menulength=\count274
+\Field@Width=\dimen142
+\Fld@charsize=\dimen143
+Package hyperref Info: Hyper figures OFF on input line 6024.
+Package hyperref Info: Link nesting OFF on input line 6029.
+Package hyperref Info: Hyper index ON on input line 6032.
+Package hyperref Info: backreferencing ON on input line 6037.
+Package hyperref Info: Link coloring OFF on input line 6044.
+Package hyperref Info: Link coloring with OCG OFF on input line 6049.
+Package hyperref Info: PDF/A mode OFF on input line 6054.
+
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count275
+\c@Item=\count276
+\c@Hfootnote=\count277
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2022-06-20 v7.00s Hyperref driver for pdfTeX
+\Fld@listcount=\count278
+\c@bookmark@seq@number=\count279
+\Hy@SectionHShift=\skip49
+) (C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/base\makeidx.sty
+Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
+)
+\@indexfile=\write3
+\openout3 = `"Ötödik alkalom_3.idx"'.
+
+
+Writing index file "Ötödik alkalom_3".idx
+
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/tocbibind\tocbibind.st
+y
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (Ötödik alkalom_3.aux)
+\openout1 = `"Ötödik alkalom_3.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+Package hyperref Info: Link coloring OFF on input line 16.
+ (Ötödik alkalom_3.out) (Ötödik alkalom_3.out)
+\@outlinefile=\write4
+\openout4 = `"Ötödik alkalom_3.out"'.
+
+
+(C:\Users\D01918\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+LaTeX Info: Redefining \cal on input line 583.
+LaTeX Info: Redefining \mit on input line 584.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 20.
+
+[1
+
+
+
+
+{C:/Users/D01918/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2
+
+]
+(Ötödik alkalom_3.toc)
+\tf@toc=\write5
+\openout5 = `"Ötödik alkalom_3.toc"'.
+
+ [3] [4
+
+]
+1. fejezet.
+
+LaTeX Warning: Citation `abrharber03' on page 1 undefined on input line 27.
+
+
+LaTeX Warning: Citation `bujfaz' on page 1 undefined on input line 28.
+
+
+LaTeX Warning: Citation `g4gbin' on page 1 undefined on input line 32.
+
+[1
+
+] [2
+
+]
+2. fejezet.
+[3] [4]
+3. fejezet.
+
+LaTeX Warning: Citation `knuth84' on page 5 undefined on input line 40.
+
+
+LaTeX Warning: Citation `lamport94' on page 5 undefined on input line 41.
+
+
+LaTeX Warning: Citation `tomacs21' on page 5 undefined on input line 42.
+
+[5
+
+] [6
+
+]
+No file "Ötödik alkalom_3".ind.
+(Ötödik alkalom_3.bbl (Ötödik alkalom_3.brf)
+\tf@brf=\write6
+\openout6 = `"Ötödik alkalom_3.brf"'.
+
+
+
+LaTeX Warning: Empty `thebibliography' environment on input line 3.
+
+) [7
+
+] (Ötödik alkalom_3.aux)
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `"Ötödik alkalom_3".out' has not changed.
+(rerunfilecheck)             Checksum: 5B67357FB21D3C7F686DC48EF94A46D1;499.
+Package rerunfilecheck Info: File `"Ötödik alkalom_3".brf' has not changed.
+(rerunfilecheck)             Checksum: 0A6DE77A003B425F5506C3C75C260107;239.
+ ) 
+Here is how much of TeX's memory you used:
+ 10217 strings out of 475389
+ 175137 string characters out of 2776528
+ 773999 words of memory out of 3000000
+ 31468 multiletter control sequences out of 15000+600000
+ 478162 words of font info for 45 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 87i,6n,91p,1899b,464s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecb
+x2074.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
+600\ecbx1000.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen
+/ec/dpi600\ecbx2488.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/ljfour/j
+knappen/ec/dpi600\ecrm1000.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fonts/pk/l
+jfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\D01918\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk>
+Output written on "Ötödik alkalom_3.pdf" (11 pages, 77688 bytes).
+PDF statistics:
+ 266 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+

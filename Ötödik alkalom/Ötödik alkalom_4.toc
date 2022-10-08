@@ -1,0 +1,6 @@
+\select@language {magyar} \contentsline {chapter}{Tartalomjegyz\'ek}{iii}{chapter*.1}%
+\select@language {magyar} \contentsline {chapter}{\numberline {1}First}{1}{chapter.1}%
+\select@language {magyar} \contentsline {chapter}{\numberline {2}The Second}{3}{chapter.2}%
+\select@language {magyar} \contentsline {chapter}{\numberline {3}The Third}{5}{chapter.3}%
+\select@language {magyar} \contentsline {chapter}{Subject pointer from people}{7}{chapter.3}%
+\select@language {magyar} \contentsline {chapter}{Irodalomjegyz\'ek}{9}{chapter*.2}%

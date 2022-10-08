@@ -1,0 +1,41 @@
+\documentclass{book}
+\usepackage[magyar]{babel}
+\usepackage{t1enc}
+\usepackage{lipsum}
+\usepackage{hulipsum}
+\usepackage[backref=page]{hyperref}
+
+
+\title{Book}
+\author{by Mátyás Martinák}
+\date{\today}
+
+\begin{document}
+	\frontmatter
+	
+	\maketitle
+	\tableofcontents
+	
+	\mainmatter
+	
+	\chapter{First}
+	\hulipsum[3]
+	\cite{abrharber03}
+	\cite{bujfaz}
+	\hulipsum[1]
+	\cite{g4gbin}
+	\chapter{Second}
+	\hulipsum
+	\chapter{Third chapter}
+	\hulipsum[2]
+	\cite{knuth84}
+	\cite{lamport94}
+	\cite{tomacs21}
+	
+	\backmatter
+	
+	\bibliographystyle{plain}
+	\bibliography{ltx}
+	
+	
+\end{document}
