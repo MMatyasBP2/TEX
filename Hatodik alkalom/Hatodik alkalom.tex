@@ -1,0 +1,123 @@
+\documentclass{article}
+\usepackage[magyar]{babel}
+\usepackage{t1enc}
+\usepackage{lipsum}
+\usepackage{hulipsum}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{mathtools}
+
+\begin{document}
+	\begin{titlepage}
+		\title{\Huge{Bevezetés a \LaTeX-be}}
+		\author{\Large{\textit{Matematikai szövegek}\\
+				\textbf{by Martinák Mátyás}}}
+		\date{}
+		\maketitle
+	\end{titlepage}
+	\textbf{Bevezető}\\
+	
+	Az $\frac{1}{n^2} $ sor összege:
+	
+	\[\sum_{i=1}^\infty\frac{1}{n^2}=\frac{\pi^2}{6}\]
+	
+	Az $n!$ ($n$ faktoriális) a számok szorzata 1-től n-ig, azaz
+	\begin{equation}
+		n! := \prod_{i=1}^n k = 1 \cdot 2 \cdot ...\cdot n\text{.}
+	\end{equation}
+	
+	Konvekció szerint $0! = 1$.
+	
+	Legyen $0 \leq k \leq n$. A binomiális együttható
+	\[\binom{n}{k} = \frac{n!}{k! \cdot (n-k)!}\text{,}\]
+	
+	ahol a faktoriálist (1) szerint definiáljuk.
+	
+	Az előjel- azaz szignum függvényt a következőképpen definiáljuk:
+	\[\operatorname{sgn}(x) := \begin{cases}
+		1, & \text{ha } x > 0, \\
+		0, & \text{ha } x = 0, \\
+		-1, & \text{ha } x < 0.
+	\end{cases}\]
+	
+	\textbf{Determináns}\\
+	
+	Legyen
+	\[[n] := \lbrace1, 2, ..., n\rbrace\]
+	
+	a természetes számok halmaza 1-től n-ig.
+	
+	Egy $n$-edrendű $\text{permutáció }\sigma$ egy bijekció $[n]$-ből $[n]$-be. Az $n$-edrendű permutációk halmazát, az ún. szimmetrikus csoportot, $S_n$-nel jelöljük.
+	
+	Egy $\sigma \in S_n$ permutációban inverziónak nevezünk egy $(i, j)$ párt, ha $i < j$
+	de $\sigma i > \sigma j$.
+	
+	Egy $\sigma \in S_n$ permutáció paritásának az inverziók számát nevezzük:
+	\[I(\sigma) := \vert\lbrace(i, j) \vert i, j \in [n], i < j, \sigma_i > \sigma_j \rbrace\vert.\]
+	
+	Legyen $A \in \mathbb{R}^{n \times n} \text{, egy }n \times n$-es (négyzetes) valós mátrix:
+	\[ A = \left( \begin{matrix}
+		a_11 & a_12 & \cdots & a_1n \\
+		a_21 & a_22 & \cdots & a_2n \\
+		\vdots & \vdots & \ddots & \vdots \\
+		a_n1 & a_n2 & \cdots & a_nn \\
+	\end{matrix} \right) \]
+	
+	Az $A$ mátrix determinánsát a következőképpen definiáljuk:
+	\begin{equation}
+		\operatorname{det}(A) =  \begin{vmatrix}
+			a_11 & a_12 & \cdots & a_1n \\
+			a_21 & a_22 & \cdots & a_2n \\
+			\vdots & \vdots & \ddots & \vdots \\
+			a_n1 & a_n2 & \cdots & a_nn \\
+		\end{vmatrix} := \sum_{\sigma \in S_n} (-1)^{I(\sigma)} \prod_{i=1}^n a_{i\sigma_i}
+	\end{equation}
+	
+	\textbf{Logikai azonosság}\\
+	
+	\noindent Tekintsük az $L = \lbrace0, 1\rbrace$ halmazt, és rajta a következő, igazságtáblával definiált műveleteket:
+	
+	\[\begin{array}{c || c}
+		x & \bar{x} \\ \hline
+		0 & 1 \\
+		1 & 0 \\
+	\end{array}
+	\quad
+	\begin{array}{c c || c | c | c}
+		x & y & x \vee y & x \wedge y & x \rightarrow y \\ \hline
+		0 & 0 & 0 & 0 & 1 \\
+		0 & 1 & 1 & 0 & 1 \\
+		1 & 0 & 1 & 0 & 0 \\
+		1 & 1 & 1 & 1 & 1 \\
+	\end{array}
+	\]
+	
+	Legyenek $a, b, c, d \in L$. Belátjuk a következő azonosságot:
+	
+	\begin{equation}
+		(a \wedge b \wedge c) \rightarrow d = a \rightarrow ( b \rightarrow( c \rightarrow d))\text{.}
+	\end{equation}
+	
+	A következő azonosságokat bizonyítás nélkül használjuk:
+	
+	\begin{subequations}
+		\begin{equation}
+			x \rightarrow y = \bar{x} \vee y
+		\end{equation}
+		\begin{equation}
+			\overline{x \vee y} = \bar{x} \wedge \bar{y}
+			\quad
+			\overline{x \wedge y} = \bar{x} \vee \bar{y}
+		\end{equation}
+	\end{subequations}
+	
+	A (3) bal oldala, (4) felhasználásával
+	
+	\begin{equation}
+		(a \wedge b \wedge c) \rightarrow d = \overline{a \wedge b \wedge c} \vee d = (\bar{a} \vee \bar{b} \vee \bar{c}) \vee d \text{.}
+	\end{equation}
+	
+	A (3) jobb oldala, (4a) ismételt felhasználásával
+	
+\end{document}
