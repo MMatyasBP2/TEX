@@ -1,0 +1,36 @@
+\documentclass{article}
+\usepackage[magyar]{babel}
+\usepackage{t1enc}
+\usepackage{lipsum}
+\usepackage{hulipsum}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{mathtools}
+
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclarePairedDelimiter{\ceil}{\lceil}{\rceil}
+\DeclarePairedDelimiter{\szogletes}{[}{]}
+\newcommand{\VE}[1]{\mathbb{E}\szogletes*{#1}}
+\DeclarePairedDelimiterX{\vonalas}[2]{[}{]}{#1 \;\delimsize\vert\; #2}
+\newcommand{\FVE}[2]{\mathbb{E}\vonalas*{#1}{#2}}
+
+\begin{document}
+	\[x^* := \argmax_{x\in[0, 1]} x \log_2(x)\]
+	
+	\[\ceil{x}, \ceil*{\frac{5}{3}}\]
+	
+	\[\VE{\sum_{i=1}^{N}{X_i}} = \VE{\FVE{\sum_{i=1}^{N}{x_i}}{N}}\]
+	
+	
+	
+	
+\end{document}
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs

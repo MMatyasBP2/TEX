@@ -1,0 +1,27 @@
+\documentclass{article}
+\usepackage[magyar]{babel}
+\usepackage{t1enc}
+\usepackage{lipsum}
+\usepackage{hulipsum}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{mathtools}
+\usepackage{xcolor}
+\usepackage{colortbl}
+\usepackage{array}
+\usepackage{ifthen}
+\usepackage{pgffor}
+\usepackage{multicol}
+
+\newcommand{\autocolor}[2]{\ifthenelse{\isodd{\value}}}
+
+
+\begin{document}
+	
+	\begin{tabular}{l l l}
+		a & b & c \\
+		a & b & c
+	\end{tabular}
+	
+\end{document}

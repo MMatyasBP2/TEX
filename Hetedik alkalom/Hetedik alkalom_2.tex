@@ -1,0 +1,30 @@
+\documentclass{article}
+\usepackage[magyar]{babel}
+\usepackage{t1enc}
+\usepackage{lipsum}
+\usepackage{hulipsum}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{mathtools}
+
+\newenvironment{vonalzott}%
+{\vspace{1ex}\hrule\vspace{1ex}}%
+{\vspace{1ex}\hrule\vspace{1ex}}
+
+\newenvironment{vonalzott*}[1][Kulcsgondolatok]{\begin{center}\begin{minipage}{0,8\textwidth}%
+			\vspace{1ex}\hrule\vspace{1ex}\begin{center}\Large\textbf{#1}\end{center}}{\vspace{1ex}\hrule\vspace{1ex}%
+\end{minipage}\end{center}}
+
+
+\begin{document}
+	
+	\begin{vonalzott}
+		\hulipsum[3]
+	\end{vonalzott}
+	
+	\begin{vonalzott*}
+		\hulipsum[4]
+	\end{vonalzott*}
+	
+\end{document}
